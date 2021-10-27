@@ -4,7 +4,7 @@
     
 ## 🚀 About Me 
 I'm a web developer based in New Jersey.
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/her
 - 🔭 I’m currently working on an A.A.S. degree in Interface Design and Web Development
     - 🌱 this semester I'm learning about:
         - Interactive Multimedia
