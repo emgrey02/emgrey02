@@ -10,6 +10,7 @@ I'm a web developer based in New Jersey.
         - Audio Production
         - Web Development
 - :musical_note: I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
+- I'm getting into WebGL libraries like Pixi.js and Three.js
 - 💡 My goal: Get a remote, full time job as a web developer
 
 ## Github Stats
@@ -26,7 +27,7 @@ I'm a web developer based in New Jersey.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## :desktop_computer: OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emgrey02.github.io/)
