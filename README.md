@@ -7,9 +7,8 @@ I'm a web developer based in New Jersey.
 - 😄 Pronouns: she/her/hers
 - 🔭 I’m currently working on an A.A.S. degree in Interface Design and Web Development
     - 🌱 this semester I'm learning about:
-        - Interactive Multimedia
-        - Javascript
-        - Object Oriented Programming with Java
+        - Audio Production
+        - Web Development
 - :musical_note: I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
 - 💡 My goal: Get a remote, full time job as a web developer
 
