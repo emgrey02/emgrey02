@@ -10,7 +10,7 @@ I'm a web developer based in New Jersey.
         - Audio Production
         - Web Development
 - :musical_note: I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
-- I'm getting into WebGL libraries like Pixi.js and Three.js
+- :purple_heart: I'm getting into WebGL libraries like Pixi.js and Three.js
 - 💡 My goal: Get a remote, full time job as a web developer
 
 ## Github Stats
