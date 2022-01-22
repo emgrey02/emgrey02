@@ -1,4 +1,5 @@
-![emma](https://user-images.githubusercontent.com/62446436/132111456-7bd6acd2-550f-481a-b8a3-9c37381387ea.gif)
+![Component 1github-header](https://user-images.githubusercontent.com/62446436/150650881-87e3cf1d-6566-4af2-8e1a-30f80ea0c7e1.png)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emgrey02.emgrey02&left_color=blue&right_color=purple)
     
