@@ -3,15 +3,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emgrey02.emgrey02&left_color=blue&right_color=purple)
     
-## 🚀 About Me 
-I'm a web developer based in New Jersey.
+## 🦑 About Me 
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on an A.A.S. degree in Interface Design and Web Development
     - 🌱 this semester I'm learning about:
         - Audio Production
         - Web Development
-- :musical_note: I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
-- :purple_heart: I'm getting into WebGL libraries like Pixi.js and Three.js
+- 🎵 I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
+- 💜 I'm getting into WebGL libraries like Pixi.js and Three.js
+- 🌟 I want to create beautiful, accessible websites
 - 💡 My goal: Get a remote, full time job as a web developer
 
 ## Github Stats
