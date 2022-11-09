@@ -4,7 +4,7 @@
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on an A.A.S. degree in Interface Design and Web Development
     - 🌱 this semester I'm learning about:
-        - Game development using C# (Unity)
+        - Game development with Unity (C#)
         - Interface Design and Human Computer Interaction
         - User Interface Programming
 - 🎵 I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
