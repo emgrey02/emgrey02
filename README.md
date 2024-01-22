@@ -2,11 +2,7 @@
     
 ## 🦑 About Me 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on an A.A.S. degree in Interface Design and Web Development
-    - 🌱 this semester I'm learning about:
-        - Game development with Unity (C#)
-        - Interface Design and Human Computer Interaction
-        - User Interface Programming
+- 🔭 I have an A.A.S. degree in Interface Design and Web Development
 - 🎵 I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
 - 💜 I'm getting into WebGL libraries like Pixi.js and Three.js
 - 🌟 I want to create beautiful, accessible websites
