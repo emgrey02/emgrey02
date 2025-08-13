@@ -4,9 +4,9 @@
 - 😄 Pronouns: she/her
 - 🔭 I have an A.A.S. degree in Interface Design and Web Development
 - 🎵 I have a Bachelor of Music degree in Clarinet Performance, with minors in Jazz Studies and Mathematics
-- 💜 I'm getting into WebGL libraries like Pixi.js and Three.js
-- 🌟 I want to create beautiful, accessible websites
-- 💡 My goal: Get a remote, full time job as a web developer
+- 💜 I'm working on Harvard's CS50 course and The Odin Project
+- 💜 I'm learning full-stack development with python, flask, sql, html, css, and javascript
+- 🌟 I want to create beautiful, accessible websites that solve problems
 
 ## Github Stats
 ![Emma's GitHub stats](https://github-stats-alpha.vercel.app/api/?username=emgrey02&cc=8972AC&tc=000&ic=fff&bc=8972AC)
@@ -25,7 +25,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 
 ## 🔗 Contact me!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emgrey02.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emmagrey.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-grey-289321190/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/greyypse)
 
